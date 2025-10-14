@@ -14,7 +14,7 @@ int main(){
             anton++;
         }
         else{
-            danik++;
+            anton++;
         }
     }
     if(anton>danik){
